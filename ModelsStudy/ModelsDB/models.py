@@ -44,5 +44,3 @@ class Lineup(models.Model):
 
 
 
-
-
